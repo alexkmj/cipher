@@ -2,6 +2,8 @@
 
 [![Java CI with Gradle](https://github.com/alexkmj/cipher/actions/workflows/gradle.yml/badge.svg)](https://github.com/alexkmj/cipher/actions/workflows/gradle.yml)
 
+The main file can be found here: [https://github.com/alexkmj/cipher/blob/master/app/src/main/java/cipher/Cipher.java](https://github.com/alexkmj/cipher/blob/master/app/src/main/java/cipher/Cipher.java)
+
 From [Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher):
 > In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift
 cipher, Caesar's code or Caesar shift, is one of the simplest and most widely
