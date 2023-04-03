@@ -36,3 +36,9 @@ String decoded = cipher.decode(encoded);
 ```
 ./gradlew build
 ```
+
+## Run
+
+```
+./gradlew run
+```
