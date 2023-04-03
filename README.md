@@ -25,7 +25,7 @@ String encoded = cipher.encode("HELLO WORLD");
 String decoded = cipher.decode(encoded);
 ```
 
-## Run Test Cases
+## Test
 
 ```
 ./gradlew test
